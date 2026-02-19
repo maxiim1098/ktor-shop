@@ -324,7 +324,7 @@ http://localhost:8080/docs/index.html
    Откройте терминал (PowerShell, bash или cmd) и выполните:
    ```bash
    git clone https://github.com/maxiim1098/ktor-shop.git
-```
+    ```
 
 2. **Перейдите в папку проекта**
 ```bash
